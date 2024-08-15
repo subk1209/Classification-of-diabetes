@@ -1,5 +1,4 @@
-1. Extracted insights from health‐related data and identified key features related to Type 2 diabetes
-2. Collaborated with a team of three to classify diabetes cases using machine learning techniques (Logistic Regression,
-Decision Tree, Random Forest and KNN) on a data set with 21 features and over 250K data points
-3. Handled data imbalance through the implementation of the under‐sampling technique
-4. Achieved the highest test accuracy (74%), precision (83%) and recall (71%) with Random Forest
+– Applying SMOTE and Undersampling techniques to tackle class imbalance, followed by a comparison of their effectiveness
+– Implementing classification models like Logistic Regression, LDA, Naive Bayes, Decision Tree, Random Forest, kNN, SVM,
+evaluating model performance based on key metrics including Accuracy, Sensitivity, Specificity, F1‐Score and AUC‐ROC
+– Implementing Artificial Neural Networks, employing multiple number of layers and activation functions to optimize model
